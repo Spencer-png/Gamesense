@@ -9,3 +9,5 @@
 5. Run csgo.exe
 
 6. inject skeet.dll into csgo.exe
+
+Thanks @kitiroo for the help of getting me the gamesense libs 

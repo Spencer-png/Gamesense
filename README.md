@@ -10,4 +10,6 @@
 
 6. inject skeet.dll into csgo.exe
 
-Thanks @kitiroo for the help of getting me the gamesense libs 
+7. the libs for luas are in the folder named "gamesense" just put that folder here   C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
+
+Thanks @kitiroo for the help in getting me the gamesense libs 

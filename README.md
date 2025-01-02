@@ -13,7 +13,9 @@
 
 5. Enjoy skeet for free 😈
 
-6. the libs for luas are in the folder named "gamesense" Just put that folder here   C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
+
+## IF LUA'S DONT LOAD 
+the libs for luas are in the folder named "gamesense" Just put that folder here   C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive
 
 ## For injector!
 

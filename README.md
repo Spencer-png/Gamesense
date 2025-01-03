@@ -15,7 +15,7 @@ the libs for luas are in the folder named "gamesense" Just put that folder here 
 
 ## For injector!
 
-Compile in release x86, launch injector with admin rights
+launch Visual studio with admin rights, Compile in release x86
 
 ## Thanks @kitiroo for the help in getting me the gamesense libs 
 

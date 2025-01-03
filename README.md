@@ -1,7 +1,7 @@
 # How to use!
 
 > [!IMPORTANT]
-> <ins>skeet.dll needs to be in the folder with the injector.</ins>
+> <ins>skeet.dll needs to be in the same folder with the injector.</ins>
 
 1. download the injector 
 

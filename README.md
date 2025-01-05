@@ -5,9 +5,11 @@
 
 1. download the injector 
 
-2. Run the loader 
+2. Run the loader
 
-3. Enjoy skeet for free 😈
+3. Open CS:GO
+
+4. Enjoy skeet for free 😈
 
 
 ## IF LUA'S DONT LOAD 

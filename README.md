@@ -2,6 +2,12 @@
 ### upgrade your windows to ( windows 11 24H2 ) 
 How to update [tutorial](https://www.youtube.com/watch?v=i1_4ieEwhhY&ab_channel=Tips2Fix)
 
+still crashing?
+
+[injecting crash](https://pastebin.com/SBbeXEdY)
+
+[Weapon crash](https://pastebin.com/AdWETgxr)
+
 __________________________________________________________________________________________
 
 > [!IMPORTANT]

@@ -25,6 +25,6 @@ launch Visual studio with admin rights, Compile in release x86
 
 ## Thanks @kitiroo for the help in getting me the gamesense libs 
 
-- [X] Make loader open cs:go automatically
+- [ ] Make loader open cs:go automatically
 - [ ] Make loader download dll from this GitHub repo
 

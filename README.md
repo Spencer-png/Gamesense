@@ -1,7 +1,9 @@
 # How to Fix CRASHING 
 ### upgrade your windows to ( windows 11 24H2 ) 
-How to update [tutorial](https://www.youtube.com/watch?v=i1_4ieEwhhY&ab_channel=Tips2Fix)
+How to update [tutorial](https://www.youtube.com/watch?v=i1_4ieEwhhY&ab_channel=Tips2Fix).
+
 Download C++ packages, from 8 to the latest [link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
 still crashing?
 
 [injecting crash](https://pastebin.com/SBbeXEdY)

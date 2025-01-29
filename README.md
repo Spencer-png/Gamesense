@@ -6,6 +6,8 @@ Download C++ packages, from 8 to the latest [link](https://learn.microsoft.com/e
 
 still crashing?
 
+Make sure you are using the provided [LIBS](https://github.com/Spencer-png/Gamesense/tree/main/gamesense) or else it will also crash 
+
 [injecting crash](https://pastebin.com/SBbeXEdY)
 
 [Weapon crash](https://pastebin.com/AdWETgxr)
